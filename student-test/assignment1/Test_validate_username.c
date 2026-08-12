@@ -19,5 +19,5 @@ void test_validate_my_username()
      * config file and my_username() functions are setup properly
      */
 	const char* actual_username = my_username();
-    TEST_ASSERT_TRUE_MESSAGE(actual_username,"KimThanhNguyen");
+    TEST_ASSERT_TRUE_MESSAGE(actual_username,"KimThanhNguyen1409");
 }
